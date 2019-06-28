@@ -1,0 +1,14 @@
+{
+  "from": "MPS5502mb",
+  "fromEmail": "fax@billblaney.on.ca",
+  "to": "MPS5502mb",
+  "cc": "",
+  "toEmails": "plus@goremutual.ca,lmclachlin@billblaney.on.ca",
+  "bcc": "",
+  "subject": "Send data from MFP78F9EC 10/01/2018 10:35",
+  "body": "<html><body style=\"font-family:'Courier',monospace;font-size:10pt;\"> <br/>  BM_BEGIN from MFP78F9EC <br/> Date:10/01/2018 10:35 <br/> Pages:18 <br/> Resolution:200x200 DPI <br/> ---------------------------------------- <br/> </body></html>",
+  "htmlBody": "Scanned from MFP78F9EC\nDate:10/01/2018 10:35\nPages:18\nResolution:200x200 DPI\n----------------------------------------\n",
+  "attachments": [
+    "DOC100118-10012018103439.pdf"
+  ]
+}
